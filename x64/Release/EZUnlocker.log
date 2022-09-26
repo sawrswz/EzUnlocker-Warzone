@@ -1,0 +1,7 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (UnlockALL Soucrce (real) (no scam).vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  dllmain.cpp
+  Generating code
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 5 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  EZUnlocker.vcxproj -> C:\Users\sawr\Desktop\Warzone\x64\Release\EZUnlocker.dll
